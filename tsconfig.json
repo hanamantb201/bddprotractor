@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    
+    
+    "target": "es6",                        
+    "module": "commonjs",                    
+    "moduleResolution":"node", 
+    "inlineSourceMap":true,
+    "noImplicitAny":false,
+    "skipLibCheck":true,
+    "forceConsistentCasingInFileNames":true,
+    "strict": true,  
+    "esModuleInterop": true,
+     "declaration":false,
+     "declarationMap":false,
+     "removeComments":false,
+     "outDir":"JSFiles"
+  
+    
+      },
+     "exclude":["node_modules"]
+        
+}
